@@ -1,0 +1,3 @@
+rootProject.name = "NexTVPublisher_VXG2"
+include ':app'
+include ':encodersdk-6.12.20201203'
